@@ -1,6 +1,6 @@
 # DATAFEST2024
 
-# Members:
+## Members:
 - Samuel Estaban Canno Chocce
 - Eduardo Elias Puglisevich
 - John Davids Sovero Cubillas
